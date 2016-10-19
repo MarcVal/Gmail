@@ -1,5 +1,6 @@
 package org.fasttrackit.steps.genericSteps;
 
+import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -24,5 +25,10 @@ public class GenericSteps extends TestBase {
     public void I_am_redirected_to(String redirectionUrl) {
         String currentUrl = driver.getCurrentUrl();
         assertThat("Redirection failed.", currentUrl, is(redirectionUrl));
+    }
+
+    @Given("^Go to \"([^\"]*)\"$")
+    public void goTo(String link) {
+        driver.get(link);
     }
 }
