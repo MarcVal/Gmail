@@ -11,7 +11,7 @@ import org.openqa.selenium.support.PageFactory;
 /**
  * Created by SatsangTurya on 10/20/2016.
  */
-public class GiveResults extends TestBase {
+public class SearchResultsSteps extends TestBase {
     private DocsPage documentsPage = PageFactory.initElements(driver, DocsPage.class);
     private ResultsPage Result = PageFactory.initElements(driver, ResultsPage.class);
 

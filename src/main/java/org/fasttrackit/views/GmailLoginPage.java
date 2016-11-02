@@ -5,9 +5,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class GmailLoginPage {
     @FindBy(css = "input#Email")
-    private WebElement Username;
+    private WebElement username;
     public WebElement getUsername() {
-        return Username;
+        return username;
     }
 
     @FindBy(css = "input#next.rc-button.rc-button-submit")

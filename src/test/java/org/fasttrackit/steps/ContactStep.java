@@ -21,4 +21,6 @@ private ContactUsPage Contact = PageFactory.initElements(driver, ContactUsPage.c
     public void contactPageIsLoaded(){
        Contact.Harta.isDisplayed();
     }
+
+
 }
