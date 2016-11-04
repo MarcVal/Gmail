@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 /**
- * Created by SatsangTurya on 10/29/2016.
+ * Created by Valeria Marc on 10/29/2016.
  */
 public class RegistrationPage {
 
@@ -67,5 +67,6 @@ public class RegistrationPage {
     public WebElement getSuccessMessage() {
         return successMessage;
     }
+
 
 }

@@ -5,3 +5,4 @@ Feature: Run an example test
     Given I open the homepage
     When I press the More information link
     Then I am redirected to "http://www.iana.org/domains/reserved"
+

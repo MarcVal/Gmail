@@ -59,8 +59,30 @@ public class PrettyGalSteps extends TestBase {
         prettyGalShopPage.getViewCartButton().click();
         driver.switchTo().defaultContent();
 
+    }
+
+
+    @Then("^I decrease the product quantity$")
+    public void iDecreaseTheProductQuantity() {
 
     }
-}
 
+    @And("^I click on Checkout button$")
+    public void iClickOnCheckoutButton() {
+        driver.switchTo().frame(prettyGalShopPage.getCheckoutFrame());
+        prettyGalShopPage.getCheckoutButton().click();
+        driver.switchTo().defaultContent();
+    }
+
+}
+   // @Then("^I validate the checkout action$")
+    //public void iValidateTheCheckoutAction() throws InterruptedException {
+      //  driver.switchTo().defaultContent();
+        //Thread.sleep(1000);
+   //     driver.switchTo().frame(prettyGalShopPage.getOnlinePaymentsFrame());
+     //   Thread.sleep(1000);
+       // prettyGalShopPage.getOnlinePaymentsFrame().click();
+        //prettyGalShopPage.getOnlinePaymentsFrame().click();
+        //driver.switchTo().defaultContent();
+    //}
 

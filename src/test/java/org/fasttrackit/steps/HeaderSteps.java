@@ -14,6 +14,6 @@ public class HeaderSteps extends TestBase {
     private Header header = PageFactory.initElements(driver, Header.class);
     @And("^Click on DOCS$")
     public void clickOnDOCS() {
-       header.getDocslink().click();
+        header.getDocslink().click();
     }
 }
