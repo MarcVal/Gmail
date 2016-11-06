@@ -13,4 +13,4 @@ Feature: Buying 2 products from FirstKid eshop
     And I click on the Launch order button
     And I select the pay on delivery option
     When I check the agreement box of the store and I send the order
-    Then I receive the order placement confirmation message
+    Then I receive the order placement confirmation message.
