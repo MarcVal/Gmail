@@ -1,0 +1,864 @@
+10:26:29 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:26:29 INFO : InitDriver - ===============================================================
+10:26:29 INFO : InitDriver - |          Environment : ft
+10:26:29 INFO : InitDriver - |          Operating System : Windows 7
+10:26:29 INFO : InitDriver - |          Browser: chrome
+10:26:29 INFO : InitDriver - |          Browser config file: chrome.properties
+10:26:29 INFO : InitDriver - ===============================================================
+
+10:26:29 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:26:29 INFO : WebDriverConfig - Browser is: chrome
+10:26:30 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:26:34 INFO : WebDriverConfig - ===============================================================
+10:26:34 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:26:34 INFO : WebDriverConfig - ===============================================================
+
+10:27:03 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:27:03 INFO : WebDriverConfig - ===============================================================
+10:27:03 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:27:03 INFO : WebDriverConfig - ===============================================================
+10:27:06 DEBUG: WebDriverConfig - ===============================================================
+10:27:06 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:27:06 DEBUG: WebDriverConfig - ===============================================================
+
+10:28:40 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:28:40 INFO : InitDriver - ===============================================================
+10:28:40 INFO : InitDriver - |          Environment : ft
+10:28:40 INFO : InitDriver - |          Operating System : Windows 7
+10:28:40 INFO : InitDriver - |          Browser: chrome
+10:28:40 INFO : InitDriver - |          Browser config file: chrome.properties
+10:28:40 INFO : InitDriver - ===============================================================
+
+10:28:40 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:28:40 INFO : WebDriverConfig - Browser is: chrome
+10:28:40 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:28:44 INFO : WebDriverConfig - ===============================================================
+10:28:44 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:28:44 INFO : WebDriverConfig - ===============================================================
+
+10:29:12 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:29:12 INFO : WebDriverConfig - ===============================================================
+10:29:12 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:29:12 INFO : WebDriverConfig - ===============================================================
+10:29:14 DEBUG: WebDriverConfig - ===============================================================
+10:29:14 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:29:14 DEBUG: WebDriverConfig - ===============================================================
+
+10:31:01 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:31:01 INFO : InitDriver - ===============================================================
+10:31:01 INFO : InitDriver - |          Environment : ft
+10:31:01 INFO : InitDriver - |          Operating System : Windows 7
+10:31:01 INFO : InitDriver - |          Browser: chrome
+10:31:01 INFO : InitDriver - |          Browser config file: chrome.properties
+10:31:01 INFO : InitDriver - ===============================================================
+
+10:31:01 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:31:01 INFO : WebDriverConfig - Browser is: chrome
+10:31:01 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:31:05 INFO : WebDriverConfig - ===============================================================
+10:31:05 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:31:05 INFO : WebDriverConfig - ===============================================================
+
+10:31:41 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:31:41 INFO : WebDriverConfig - ===============================================================
+10:31:41 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:31:41 INFO : WebDriverConfig - ===============================================================
+10:31:43 DEBUG: WebDriverConfig - ===============================================================
+10:31:43 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:31:43 DEBUG: WebDriverConfig - ===============================================================
+
+10:33:03 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:33:03 INFO : InitDriver - ===============================================================
+10:33:03 INFO : InitDriver - |          Environment : ft
+10:33:03 INFO : InitDriver - |          Operating System : Windows 7
+10:33:03 INFO : InitDriver - |          Browser: chrome
+10:33:03 INFO : InitDriver - |          Browser config file: chrome.properties
+10:33:03 INFO : InitDriver - ===============================================================
+
+10:33:03 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:33:03 INFO : WebDriverConfig - Browser is: chrome
+10:33:03 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:33:07 INFO : WebDriverConfig - ===============================================================
+10:33:07 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:33:07 INFO : WebDriverConfig - ===============================================================
+
+10:33:35 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:33:35 INFO : WebDriverConfig - ===============================================================
+10:33:35 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:33:35 INFO : WebDriverConfig - ===============================================================
+10:33:37 DEBUG: WebDriverConfig - ===============================================================
+10:33:37 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:33:37 DEBUG: WebDriverConfig - ===============================================================
+
+10:39:23 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:39:23 INFO : InitDriver - ===============================================================
+10:39:23 INFO : InitDriver - |          Environment : ft
+10:39:23 INFO : InitDriver - |          Operating System : Windows 7
+10:39:23 INFO : InitDriver - |          Browser: chrome
+10:39:23 INFO : InitDriver - |          Browser config file: chrome.properties
+10:39:23 INFO : InitDriver - ===============================================================
+
+10:39:23 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:39:23 INFO : WebDriverConfig - Browser is: chrome
+10:39:23 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:39:28 INFO : WebDriverConfig - ===============================================================
+10:39:28 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:39:28 INFO : WebDriverConfig - ===============================================================
+
+10:39:56 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:39:56 INFO : WebDriverConfig - ===============================================================
+10:39:56 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:39:56 INFO : WebDriverConfig - ===============================================================
+10:39:57 DEBUG: WebDriverConfig - ===============================================================
+10:39:57 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:39:57 DEBUG: WebDriverConfig - ===============================================================
+
+10:40:54 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:40:54 INFO : InitDriver - ===============================================================
+10:40:54 INFO : InitDriver - |          Environment : ft
+10:40:54 INFO : InitDriver - |          Operating System : Windows 7
+10:40:54 INFO : InitDriver - |          Browser: chrome
+10:40:54 INFO : InitDriver - |          Browser config file: chrome.properties
+10:40:54 INFO : InitDriver - ===============================================================
+
+10:40:54 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:40:54 INFO : WebDriverConfig - Browser is: chrome
+10:40:54 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:40:58 INFO : WebDriverConfig - ===============================================================
+10:40:58 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:40:58 INFO : WebDriverConfig - ===============================================================
+
+10:41:16 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:41:16 INFO : WebDriverConfig - ===============================================================
+10:41:16 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:41:16 INFO : WebDriverConfig - ===============================================================
+10:41:18 DEBUG: WebDriverConfig - ===============================================================
+10:41:18 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:41:18 DEBUG: WebDriverConfig - ===============================================================
+
+10:42:22 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:42:22 INFO : InitDriver - ===============================================================
+10:42:22 INFO : InitDriver - |          Environment : ft
+10:42:22 INFO : InitDriver - |          Operating System : Windows 7
+10:42:22 INFO : InitDriver - |          Browser: chrome
+10:42:22 INFO : InitDriver - |          Browser config file: chrome.properties
+10:42:22 INFO : InitDriver - ===============================================================
+
+10:42:22 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:42:22 INFO : WebDriverConfig - Browser is: chrome
+10:42:22 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:42:26 INFO : WebDriverConfig - ===============================================================
+10:42:26 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:42:26 INFO : WebDriverConfig - ===============================================================
+
+10:42:52 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:42:52 INFO : WebDriverConfig - ===============================================================
+10:42:52 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:42:52 INFO : WebDriverConfig - ===============================================================
+10:42:54 DEBUG: WebDriverConfig - ===============================================================
+10:42:54 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:42:54 DEBUG: WebDriverConfig - ===============================================================
+
+10:50:52 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:50:52 INFO : InitDriver - ===============================================================
+10:50:52 INFO : InitDriver - |          Environment : ft
+10:50:52 INFO : InitDriver - |          Operating System : Windows 7
+10:50:52 INFO : InitDriver - |          Browser: chrome
+10:50:52 INFO : InitDriver - |          Browser config file: chrome.properties
+10:50:52 INFO : InitDriver - ===============================================================
+
+10:50:52 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:50:52 INFO : WebDriverConfig - Browser is: chrome
+10:50:52 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:50:56 INFO : WebDriverConfig - ===============================================================
+10:50:56 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:50:56 INFO : WebDriverConfig - ===============================================================
+
+10:51:14 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:51:14 INFO : WebDriverConfig - ===============================================================
+10:51:14 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:51:14 INFO : WebDriverConfig - ===============================================================
+10:51:16 DEBUG: WebDriverConfig - ===============================================================
+10:51:16 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:51:16 DEBUG: WebDriverConfig - ===============================================================
+
+10:52:00 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:52:00 INFO : InitDriver - ===============================================================
+10:52:00 INFO : InitDriver - |          Environment : ft
+10:52:00 INFO : InitDriver - |          Operating System : Windows 7
+10:52:00 INFO : InitDriver - |          Browser: chrome
+10:52:00 INFO : InitDriver - |          Browser config file: chrome.properties
+10:52:00 INFO : InitDriver - ===============================================================
+
+10:52:00 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:52:00 INFO : WebDriverConfig - Browser is: chrome
+10:52:00 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:52:04 INFO : WebDriverConfig - ===============================================================
+10:52:04 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:52:04 INFO : WebDriverConfig - ===============================================================
+
+10:52:22 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:52:22 INFO : WebDriverConfig - ===============================================================
+10:52:22 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:52:22 INFO : WebDriverConfig - ===============================================================
+10:52:23 DEBUG: WebDriverConfig - ===============================================================
+10:52:23 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:52:23 DEBUG: WebDriverConfig - ===============================================================
+
+10:53:07 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:53:07 INFO : InitDriver - ===============================================================
+10:53:07 INFO : InitDriver - |          Environment : ft
+10:53:07 INFO : InitDriver - |          Operating System : Windows 7
+10:53:07 INFO : InitDriver - |          Browser: chrome
+10:53:07 INFO : InitDriver - |          Browser config file: chrome.properties
+10:53:07 INFO : InitDriver - ===============================================================
+
+10:53:07 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:53:07 INFO : WebDriverConfig - Browser is: chrome
+10:53:07 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:53:11 INFO : WebDriverConfig - ===============================================================
+10:53:11 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:53:11 INFO : WebDriverConfig - ===============================================================
+
+10:53:30 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:53:30 INFO : WebDriverConfig - ===============================================================
+10:53:30 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:53:30 INFO : WebDriverConfig - ===============================================================
+10:53:32 DEBUG: WebDriverConfig - ===============================================================
+10:53:32 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:53:32 DEBUG: WebDriverConfig - ===============================================================
+
+10:55:22 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:55:22 INFO : InitDriver - ===============================================================
+10:55:23 INFO : InitDriver - |          Environment : ft
+10:55:23 INFO : InitDriver - |          Operating System : Windows 7
+10:55:23 INFO : InitDriver - |          Browser: chrome
+10:55:23 INFO : InitDriver - |          Browser config file: chrome.properties
+10:55:23 INFO : InitDriver - ===============================================================
+
+10:55:23 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:55:23 INFO : WebDriverConfig - Browser is: chrome
+10:55:23 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:55:27 INFO : WebDriverConfig - ===============================================================
+10:55:27 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:55:27 INFO : WebDriverConfig - ===============================================================
+
+10:55:44 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:55:44 INFO : WebDriverConfig - ===============================================================
+10:55:44 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:55:44 INFO : WebDriverConfig - ===============================================================
+10:55:46 DEBUG: WebDriverConfig - ===============================================================
+10:55:46 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:55:46 DEBUG: WebDriverConfig - ===============================================================
+
+10:56:20 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:56:20 INFO : InitDriver - ===============================================================
+10:56:20 INFO : InitDriver - |          Environment : ft
+10:56:20 INFO : InitDriver - |          Operating System : Windows 7
+10:56:20 INFO : InitDriver - |          Browser: chrome
+10:56:20 INFO : InitDriver - |          Browser config file: chrome.properties
+10:56:20 INFO : InitDriver - ===============================================================
+
+10:56:20 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:56:20 INFO : WebDriverConfig - Browser is: chrome
+10:56:20 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:56:24 INFO : WebDriverConfig - ===============================================================
+10:56:24 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:56:24 INFO : WebDriverConfig - ===============================================================
+
+10:56:41 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:56:41 INFO : WebDriverConfig - ===============================================================
+10:56:41 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:56:41 INFO : WebDriverConfig - ===============================================================
+10:56:43 DEBUG: WebDriverConfig - ===============================================================
+10:56:43 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:56:43 DEBUG: WebDriverConfig - ===============================================================
+
+10:57:16 DEBUG: Hooks - ***** START of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:57:16 INFO : InitDriver - ===============================================================
+10:57:16 INFO : InitDriver - |          Environment : ft
+10:57:16 INFO : InitDriver - |          Operating System : Windows 7
+10:57:16 INFO : InitDriver - |          Browser: chrome
+10:57:16 INFO : InitDriver - |          Browser config file: chrome.properties
+10:57:16 INFO : InitDriver - ===============================================================
+
+10:57:16 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:57:16 INFO : WebDriverConfig - Browser is: chrome
+10:57:17 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+10:57:20 INFO : WebDriverConfig - ===============================================================
+10:57:20 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:57:20 INFO : WebDriverConfig - ===============================================================
+
+10:57:38 DEBUG: Hooks - ***** END of Scenario: As a visitor of the website I add products to cart and I proceed to checkout. *****
+10:57:38 INFO : WebDriverConfig - ===============================================================
+10:57:38 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:57:38 INFO : WebDriverConfig - ===============================================================
+10:57:39 DEBUG: WebDriverConfig - ===============================================================
+10:57:39 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:57:39 DEBUG: WebDriverConfig - ===============================================================
+
+12:48:46 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:48:46 INFO : InitDriver - ===============================================================
+12:48:46 INFO : InitDriver - |          Environment : ft
+12:48:46 INFO : InitDriver - |          Operating System : Windows 7
+12:48:46 INFO : InitDriver - |          Browser: chrome
+12:48:46 INFO : InitDriver - |          Browser config file: chrome.properties
+12:48:46 INFO : InitDriver - ===============================================================
+
+12:48:46 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:48:46 INFO : WebDriverConfig - Browser is: chrome
+12:48:46 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:48:50 INFO : WebDriverConfig - ===============================================================
+12:48:50 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:48:50 INFO : WebDriverConfig - ===============================================================
+
+12:49:07 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:49:07 INFO : WebDriverConfig - ===============================================================
+12:49:07 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:49:07 INFO : WebDriverConfig - ===============================================================
+12:49:08 DEBUG: WebDriverConfig - ===============================================================
+12:49:08 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:49:08 DEBUG: WebDriverConfig - ===============================================================
+
+12:50:17 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:50:17 INFO : InitDriver - ===============================================================
+12:50:17 INFO : InitDriver - |          Environment : ft
+12:50:17 INFO : InitDriver - |          Operating System : Windows 7
+12:50:17 INFO : InitDriver - |          Browser: chrome
+12:50:17 INFO : InitDriver - |          Browser config file: chrome.properties
+12:50:17 INFO : InitDriver - ===============================================================
+
+12:50:17 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:50:17 INFO : WebDriverConfig - Browser is: chrome
+12:50:17 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:50:21 INFO : WebDriverConfig - ===============================================================
+12:50:21 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:50:21 INFO : WebDriverConfig - ===============================================================
+
+12:50:37 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:50:37 INFO : WebDriverConfig - ===============================================================
+12:50:37 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:50:37 INFO : WebDriverConfig - ===============================================================
+12:50:39 DEBUG: WebDriverConfig - ===============================================================
+12:50:39 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:50:39 DEBUG: WebDriverConfig - ===============================================================
+
+12:55:07 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:55:07 INFO : InitDriver - ===============================================================
+12:55:07 INFO : InitDriver - |          Environment : ft
+12:55:07 INFO : InitDriver - |          Operating System : Windows 7
+12:55:07 INFO : InitDriver - |          Browser: chrome
+12:55:07 INFO : InitDriver - |          Browser config file: chrome.properties
+12:55:07 INFO : InitDriver - ===============================================================
+
+12:55:07 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:55:07 INFO : WebDriverConfig - Browser is: chrome
+12:55:07 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:55:11 INFO : WebDriverConfig - ===============================================================
+12:55:11 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:55:11 INFO : WebDriverConfig - ===============================================================
+
+12:55:28 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:55:28 INFO : WebDriverConfig - ===============================================================
+12:55:28 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:55:28 INFO : WebDriverConfig - ===============================================================
+12:55:30 DEBUG: WebDriverConfig - ===============================================================
+12:55:30 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:55:30 DEBUG: WebDriverConfig - ===============================================================
+
+12:56:15 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:56:15 INFO : InitDriver - ===============================================================
+12:56:15 INFO : InitDriver - |          Environment : ft
+12:56:15 INFO : InitDriver - |          Operating System : Windows 7
+12:56:15 INFO : InitDriver - |          Browser: chrome
+12:56:15 INFO : InitDriver - |          Browser config file: chrome.properties
+12:56:15 INFO : InitDriver - ===============================================================
+
+12:56:15 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:56:15 INFO : WebDriverConfig - Browser is: chrome
+12:56:15 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:56:19 INFO : WebDriverConfig - ===============================================================
+12:56:19 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:56:19 INFO : WebDriverConfig - ===============================================================
+
+12:56:36 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:56:36 INFO : WebDriverConfig - ===============================================================
+12:56:36 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:56:36 INFO : WebDriverConfig - ===============================================================
+12:56:37 DEBUG: WebDriverConfig - ===============================================================
+12:56:37 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:56:37 DEBUG: WebDriverConfig - ===============================================================
+
+12:57:17 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:57:17 INFO : InitDriver - ===============================================================
+12:57:17 INFO : InitDriver - |          Environment : ft
+12:57:17 INFO : InitDriver - |          Operating System : Windows 7
+12:57:17 INFO : InitDriver - |          Browser: chrome
+12:57:17 INFO : InitDriver - |          Browser config file: chrome.properties
+12:57:17 INFO : InitDriver - ===============================================================
+
+12:57:17 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:57:17 INFO : WebDriverConfig - Browser is: chrome
+12:57:17 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:57:21 INFO : WebDriverConfig - ===============================================================
+12:57:21 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:57:21 INFO : WebDriverConfig - ===============================================================
+
+12:57:38 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:57:38 INFO : WebDriverConfig - ===============================================================
+12:57:38 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:57:38 INFO : WebDriverConfig - ===============================================================
+12:57:39 DEBUG: WebDriverConfig - ===============================================================
+12:57:39 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:57:39 DEBUG: WebDriverConfig - ===============================================================
+
+12:57:56 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:57:56 INFO : InitDriver - ===============================================================
+12:57:56 INFO : InitDriver - |          Environment : ft
+12:57:56 INFO : InitDriver - |          Operating System : Windows 7
+12:57:56 INFO : InitDriver - |          Browser: chrome
+12:57:56 INFO : InitDriver - |          Browser config file: chrome.properties
+12:57:56 INFO : InitDriver - ===============================================================
+
+12:57:56 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:57:56 INFO : WebDriverConfig - Browser is: chrome
+12:57:56 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:57:59 INFO : WebDriverConfig - ===============================================================
+12:57:59 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:57:59 INFO : WebDriverConfig - ===============================================================
+
+12:58:16 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:58:16 INFO : WebDriverConfig - ===============================================================
+12:58:16 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:58:16 INFO : WebDriverConfig - ===============================================================
+12:58:17 DEBUG: WebDriverConfig - ===============================================================
+12:58:17 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:58:17 DEBUG: WebDriverConfig - ===============================================================
+
+12:58:46 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:58:46 INFO : InitDriver - ===============================================================
+12:58:46 INFO : InitDriver - |          Environment : ft
+12:58:46 INFO : InitDriver - |          Operating System : Windows 7
+12:58:46 INFO : InitDriver - |          Browser: chrome
+12:58:46 INFO : InitDriver - |          Browser config file: chrome.properties
+12:58:46 INFO : InitDriver - ===============================================================
+
+12:58:46 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:58:46 INFO : WebDriverConfig - Browser is: chrome
+12:58:47 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:58:50 INFO : WebDriverConfig - ===============================================================
+12:58:50 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:58:50 INFO : WebDriverConfig - ===============================================================
+
+12:59:07 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+12:59:07 INFO : WebDriverConfig - ===============================================================
+12:59:07 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+12:59:07 INFO : WebDriverConfig - ===============================================================
+12:59:09 DEBUG: WebDriverConfig - ===============================================================
+12:59:09 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+12:59:09 DEBUG: WebDriverConfig - ===============================================================
+
+12:59:44 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+12:59:44 INFO : InitDriver - ===============================================================
+12:59:44 INFO : InitDriver - |          Environment : ft
+12:59:44 INFO : InitDriver - |          Operating System : Windows 7
+12:59:44 INFO : InitDriver - |          Browser: chrome
+12:59:44 INFO : InitDriver - |          Browser config file: chrome.properties
+12:59:44 INFO : InitDriver - ===============================================================
+
+12:59:44 DEBUG: WebDriverConfig - File: chrome.properties exists
+12:59:44 INFO : WebDriverConfig - Browser is: chrome
+12:59:44 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+12:59:48 INFO : WebDriverConfig - ===============================================================
+12:59:48 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+12:59:48 INFO : WebDriverConfig - ===============================================================
+
+13:00:04 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+13:00:04 INFO : WebDriverConfig - ===============================================================
+13:00:04 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+13:00:04 INFO : WebDriverConfig - ===============================================================
+13:00:06 DEBUG: WebDriverConfig - ===============================================================
+13:00:06 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+13:00:06 DEBUG: WebDriverConfig - ===============================================================
+
+13:01:43 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+13:01:43 INFO : InitDriver - ===============================================================
+13:01:43 INFO : InitDriver - |          Environment : ft
+13:01:43 INFO : InitDriver - |          Operating System : Windows 7
+13:01:43 INFO : InitDriver - |          Browser: chrome
+13:01:43 INFO : InitDriver - |          Browser config file: chrome.properties
+13:01:43 INFO : InitDriver - ===============================================================
+
+13:01:43 DEBUG: WebDriverConfig - File: chrome.properties exists
+13:01:43 INFO : WebDriverConfig - Browser is: chrome
+13:01:43 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+13:01:47 INFO : WebDriverConfig - ===============================================================
+13:01:47 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+13:01:47 INFO : WebDriverConfig - ===============================================================
+
+13:02:04 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+13:02:04 INFO : WebDriverConfig - ===============================================================
+13:02:04 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+13:02:04 INFO : WebDriverConfig - ===============================================================
+13:02:05 DEBUG: WebDriverConfig - ===============================================================
+13:02:05 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+13:02:05 DEBUG: WebDriverConfig - ===============================================================
+
+13:03:33 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+13:03:33 INFO : InitDriver - ===============================================================
+13:03:33 INFO : InitDriver - |          Environment : ft
+13:03:33 INFO : InitDriver - |          Operating System : Windows 7
+13:03:33 INFO : InitDriver - |          Browser: chrome
+13:03:33 INFO : InitDriver - |          Browser config file: chrome.properties
+13:03:33 INFO : InitDriver - ===============================================================
+
+13:03:33 DEBUG: WebDriverConfig - File: chrome.properties exists
+13:03:33 INFO : WebDriverConfig - Browser is: chrome
+13:03:33 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+13:03:37 INFO : WebDriverConfig - ===============================================================
+13:03:37 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+13:03:37 INFO : WebDriverConfig - ===============================================================
+
+13:03:50 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+13:03:50 INFO : WebDriverConfig - ===============================================================
+13:03:50 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+13:03:50 INFO : WebDriverConfig - ===============================================================
+13:03:52 DEBUG: WebDriverConfig - ===============================================================
+13:03:52 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+13:03:52 DEBUG: WebDriverConfig - ===============================================================
+
+13:06:58 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+13:06:58 INFO : InitDriver - ===============================================================
+13:06:58 INFO : InitDriver - |          Environment : ft
+13:06:58 INFO : InitDriver - |          Operating System : Windows 7
+13:06:58 INFO : InitDriver - |          Browser: chrome
+13:06:58 INFO : InitDriver - |          Browser config file: chrome.properties
+13:06:58 INFO : InitDriver - ===============================================================
+
+13:06:58 DEBUG: WebDriverConfig - File: chrome.properties exists
+13:06:58 INFO : WebDriverConfig - Browser is: chrome
+13:06:58 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+13:07:02 INFO : WebDriverConfig - ===============================================================
+13:07:02 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+13:07:02 INFO : WebDriverConfig - ===============================================================
+
+13:07:15 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+13:07:15 INFO : WebDriverConfig - ===============================================================
+13:07:15 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+13:07:15 INFO : WebDriverConfig - ===============================================================
+13:07:16 DEBUG: WebDriverConfig - ===============================================================
+13:07:16 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+13:07:16 DEBUG: WebDriverConfig - ===============================================================
+
+13:46:57 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+13:46:57 INFO : InitDriver - ===============================================================
+13:46:57 INFO : InitDriver - |          Environment : ft
+13:46:57 INFO : InitDriver - |          Operating System : Windows 7
+13:46:57 INFO : InitDriver - |          Browser: chrome
+13:46:57 INFO : InitDriver - |          Browser config file: chrome.properties
+13:46:57 INFO : InitDriver - ===============================================================
+
+13:46:57 DEBUG: WebDriverConfig - File: chrome.properties exists
+13:46:57 INFO : WebDriverConfig - Browser is: chrome
+13:46:57 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+13:47:01 INFO : WebDriverConfig - ===============================================================
+13:47:01 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+13:47:01 INFO : WebDriverConfig - ===============================================================
+
+13:47:15 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+13:47:15 INFO : WebDriverConfig - ===============================================================
+13:47:15 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+13:47:15 INFO : WebDriverConfig - ===============================================================
+13:47:16 DEBUG: WebDriverConfig - ===============================================================
+13:47:16 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+13:47:16 DEBUG: WebDriverConfig - ===============================================================
+
+14:00:49 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+14:00:49 INFO : InitDriver - ===============================================================
+14:00:49 INFO : InitDriver - |          Environment : ft
+14:00:49 INFO : InitDriver - |          Operating System : Windows 7
+14:00:49 INFO : InitDriver - |          Browser: chrome
+14:00:49 INFO : InitDriver - |          Browser config file: chrome.properties
+14:00:49 INFO : InitDriver - ===============================================================
+
+14:00:49 DEBUG: WebDriverConfig - File: chrome.properties exists
+14:00:49 INFO : WebDriverConfig - Browser is: chrome
+14:00:49 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+14:00:53 INFO : WebDriverConfig - ===============================================================
+14:00:53 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+14:00:53 INFO : WebDriverConfig - ===============================================================
+
+14:01:06 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+14:01:06 INFO : WebDriverConfig - ===============================================================
+14:01:06 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+14:01:06 INFO : WebDriverConfig - ===============================================================
+14:01:07 DEBUG: WebDriverConfig - ===============================================================
+14:01:07 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+14:01:07 DEBUG: WebDriverConfig - ===============================================================
+
+14:02:46 DEBUG: Hooks - ***** START of Scenario: I am leaving a comment in a commercial website *****
+14:02:46 INFO : InitDriver - ===============================================================
+14:02:46 INFO : InitDriver - |          Environment : ft
+14:02:46 INFO : InitDriver - |          Operating System : Windows 7
+14:02:46 INFO : InitDriver - |          Browser: chrome
+14:02:46 INFO : InitDriver - |          Browser config file: chrome.properties
+14:02:46 INFO : InitDriver - ===============================================================
+
+14:02:46 DEBUG: WebDriverConfig - File: chrome.properties exists
+14:02:46 INFO : WebDriverConfig - Browser is: chrome
+14:02:46 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+14:02:50 INFO : WebDriverConfig - ===============================================================
+14:02:50 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+14:02:50 INFO : WebDriverConfig - ===============================================================
+
+14:03:06 DEBUG: Hooks - ***** END of Scenario: I am leaving a comment in a commercial website *****
+14:03:06 INFO : WebDriverConfig - ===============================================================
+14:03:06 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+14:03:06 INFO : WebDriverConfig - ===============================================================
+14:03:08 DEBUG: WebDriverConfig - ===============================================================
+14:03:08 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+14:03:08 DEBUG: WebDriverConfig - ===============================================================
+

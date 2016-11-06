@@ -1,0 +1,32 @@
+19:40:50 DEBUG: Hooks - ***** START of Scenario: Simple login and log out in Gmail account *****
+19:40:50 INFO : InitDriver - ===============================================================
+19:40:50 INFO : InitDriver - |          Environment : ft
+19:40:50 INFO : InitDriver - |          Operating System : Windows 7
+19:40:50 INFO : InitDriver - |          Browser: chrome
+19:40:50 INFO : InitDriver - |          Browser config file: chrome.properties
+19:40:50 INFO : InitDriver - ===============================================================
+
+19:40:50 DEBUG: WebDriverConfig - File: chrome.properties exists
+19:40:50 INFO : WebDriverConfig - Browser is: chrome
+19:40:51 INFO : ChromeConfigReader - Browser properties successfully loaded: 
+	browser=chrome
+	browser.driver.path=src/test/resources/drivers/chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_settings.multiple-automatic-downloads=1
+	options.experimental.download.prompt_for_download=1
+	browser.driver.path.linux=src/test/resources/drivers/chromedriver_linux
+	browser.driver.path.mac=src/test/resources/drivers/chromedriver_mac
+
+19:40:57 INFO : WebDriverConfig - ===============================================================
+19:40:57 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+19:40:57 INFO : WebDriverConfig - ===============================================================
+
+19:41:18 DEBUG: Hooks - ***** END of Scenario: Simple login and log out in Gmail account *****
+19:41:18 INFO : WebDriverConfig - ===============================================================
+19:41:18 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+19:41:18 INFO : WebDriverConfig - ===============================================================
+19:41:21 DEBUG: WebDriverConfig - ===============================================================
+19:41:21 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+19:41:21 DEBUG: WebDriverConfig - ===============================================================
+
