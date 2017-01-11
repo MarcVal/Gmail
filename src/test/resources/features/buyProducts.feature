@@ -1,6 +1,6 @@
 Feature: Buying 2 products from FirstKid eshop
 
-  Scenario:
+  Scenario: Buying products
 
     Given I go to "https://qa.firstkid.ro"
     And I login as firstkid client;
