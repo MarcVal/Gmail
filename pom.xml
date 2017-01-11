@@ -2,22 +2,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>SeleniumAndCucumberProject</groupId>
-    <artifactId>seleniumAndCucumber</artifactId>
+    <groupId>Gmail</groupId>
+    <artifactId>Gmail</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Selenium And Cucumber Empty Project</name>
+    <name>Gmail</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java-version>1.7</java-version>
     </properties>
-
-    <organization>
-        <name>FastTrackIT</name>
-    </organization>
 
     <dependencies>
         <dependency>
