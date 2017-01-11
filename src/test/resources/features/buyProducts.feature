@@ -13,3 +13,5 @@ Feature: Buying 2 products from FirstKid eshop
     And I complete the billing and delivery address
     And I check the agreement box of the store and I send the order
     Then I receive the order placement confirmation message
+
+    //
