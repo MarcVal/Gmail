@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by SatsangTurya on 10/22/2016.
+ * Created by Valeria Marc on 10/22/2016.
  */
 public class GmailLoginSteps extends TestBase {
     private GmailLoginPage gmailLoginPage = PageFactory.initElements(driver, GmailLoginPage.class);
